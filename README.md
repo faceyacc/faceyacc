@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ty!
+
+I'm a Go, Python, and Typescript developer. I primarly like to foucus on Backend developer building APIs, web servers, and CLIs. 
+ 
+Check me out [here](tyfacey.dev) 😄
+
 <!--
 **faceyacc/faceyacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
