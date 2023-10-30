@@ -2,7 +2,7 @@
 
 I'm Ty!
 
-I'm a Go, Python, and Typescript developer. I primarly like to foucus on Backend developer building APIs, web servers, and CLIs. 
+I'm a Go, Python, and Typescript developer. I primarly like to foucus on Backend development building APIs, web servers, and CLIs. 
  
 Check me out [here](tyfacey.dev) 😄
 
